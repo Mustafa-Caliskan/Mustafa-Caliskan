@@ -61,8 +61,8 @@ I don't just consume technology; I build, secure, and lead communities around it
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mustafa-Caliskan&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mustafa-Caliskan&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Caliskan&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Caliskan&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ### 📫 Connect with Me
