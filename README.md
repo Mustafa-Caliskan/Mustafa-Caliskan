@@ -1,61 +1,70 @@
 ### Hi there, I'm Mustafa Çalışkan! 👋
 
-I'm a **Computer Engineering Student** (3rd Year) at **Mehmet Akif Ersoy University**, specializing in **AI Security** — the intersection of adversarial machine learning, LLM vulnerabilities, and intelligent defense systems.
+Senior **Computer Engineering Student** at **Mehmet Akif Ersoy University**, specializing in **AI Security**, **Autonomous Agent Architectures**, and **Adversarial Machine Learning**.
 
-I don't just study AI; I break it, secure it, and build communities around it.
-
----
-
-### 🚀 What I'm Working On
-
-* 🔐 **AI Security Research:** Analyzing **indirect prompt injection** vulnerabilities in autonomous SOC agents. Building adversarial attack simulations and defense architectures for LLM-based systems.
-* 🧠 **Deep Learning:** Working with **YOLOv8**, **Vision Transformers (ViT)**, and multi-modal architectures. Experienced in large-scale dataset pipelines and model optimization.
-* 🤖 **LLM Engineering:** Building autonomous AI agents with **LangChain**, **RAG pipelines**, and **Multi-Agent Systems**. Integrating **n8n** for SOAR-style security automation.
-* ☁️ **Cloud & Deployment:** Hands-on experience with **Huawei Cloud** and **AWS SageMaker**. Focused on scalable model serving and MLOps pipelines.
-* 🏛️ **Community Leadership:** Founding President of **Digital Development Community** at MAKU. Campus Ambassador at **Huawei Student Developers (HSD)**.
+Focused on auditing, securing, and deploying production-grade AI systems and agentic workflows.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🚀 Highlights & Current Focus
 
-**🔐 AI Security (The Mission)**
+* 🛡️ **AI Security & Red Teaming:** Developing **[AutoRedTeam](https://github.com/Mustafa-Caliskan)** with Microsoft PyRIT to automatically audit enterprise agents against Indirect Prompt Injection and unauthorized tool calling.
+* 🏰 **LLM Defense Architecture:** Built **[CyberTech Neural Shield](https://github.com/Mustafa-Caliskan/ai-soc-agent-lab)** — a multi-layered security gateway featuring Unicode steganography detection, DeBERTa semantic classification, and outbound DLP.
+* 🛫 **Enterprise AI Experience:** Completed a 30-day AI Engineering internship at **Istanbul Sabiha Gokcen Airport (ISG)**, delivering production-ready CV (YOLOv11+DETR) and local LLM ETL pipelines.
+* 🔬 **Academic Research:** Leading a **TUBITAK 2209-A** deep learning research project utilizing Vision Transformers (ViT) and YOLOv8m (achieved **0.95 mAP**).
+* 🏛️ **Leadership:** Founding President of **Digital Development Community (DGT)** & former **Huawei Student Developers (HSD) Campus Ambassador**.
+
+---
+
+### 🛠️ Technical Stack
+
+**🔐 AI Security & Adversarial ML**
 <p align="left">
-  <img src="https://img.shields.io/badge/Adversarial_ML-FF4B4B?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Injection-8B0000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Red_Teaming-FF4B4B?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Security-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-E63946?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Red_Teaming-FF6633?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adversarial_ML-8B0000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATLAS_%26_ATT%26CK-E63946?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PyRIT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-**🧠 AI & Deep Learning (The Core)**
+**🧠 AI, LLM & Deep Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain_RAG-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama_Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6633?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-**☁️ Cloud & MLOps (The Infrastructure)**
+**💻 Backend, Cloud & Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-C7000B?style=for-the-badge&logo=huawei&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Huawei_Cloud-C7000B?style=for-the-badge&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk_SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Certifications & Achievements
+### 📌 Featured Repositories
 
-* 🥇 **Vertical Specialization Winter Camp 2026** — Presidency of Cybersecurity, Defense Industries & ASELSAN
-* 🛡️ **TSGK Vertical Specialization Bootcamp** — Turkey Cybersecurity Cluster
-* ☁️ **HCCDA - AI** — Huawei Cloud
-* ☁️ **HCCDA - Tech Essentials** — Huawei Cloud
-* 🤖 **AI Summer Camp 2025** — Miuul
-* 🎓 **Google AI & Technology Academy** — Google Turkey (ongoing)
+* 🛡️ **[ai-soc-agent-lab](https://github.com/Mustafa-Caliskan/ai-soc-agent-lab):** CyberTech Neural Shield — Multi-layered defense gateway protecting LLMs against Unicode Steganography, PDF Smuggling & Injection.
+* 🤖 **[AutoRedTeam](https://github.com/Mustafa-Caliskan):** Autonomous agent security and red teaming audit tool built on Microsoft PyRIT.
+
+---
+
+### 🏆 Key Certifications
+
+* 🥇 **Specialized Cyber Winter Camp 2026** — Presidency of Defense Industries (SSB) & ASELSAN
+* 🛡️ **TSGK Specialized Security Bootcamp** — Cyber Security Cluster of Turkey
+* ☁️ **HCCDA - AI** — Huawei Cloud Certified Developer Associate
+* 🤖 **Huawei Cloud AI Bootcamp** — 4-Week Applied AI Program
 
 ---
 
@@ -70,8 +79,6 @@ I don't just study AI; I break it, secure it, and build communities around it.
 
 ### 📫 Connect with Me
 
-I'm always open to discussing **AI Security**, **LLM vulnerabilities**, or **Cloud-native ML systems**.
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-caliskann/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-caliskan-b0221b333)
 * ✍️ [Medium Blog](https://medium.com/@caliskanmustafa)
 * 📧 **Email:** caliskanmustafaa.55@gmail.com
