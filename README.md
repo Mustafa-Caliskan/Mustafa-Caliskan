@@ -21,7 +21,7 @@ Focused on auditing, securing, and deploying production-grade AI systems and age
 
 ## Experience & Leadership
 
-* **AI Engineering Intern** @ [Istanbul Sabiha Gokcen Airport (ISG)](https://www.sgairport.com/) *(Jul. 2026 – Aug. 2026)*  
+* **AI Engineering Intern** @ [Istanbul Sabiha Gokcen Airport (ISG)](https://www.sabihagokcen.aero/anasayfa) *(Jul. 2026 – Aug. 2026)*  
   Delivered real-time baggage detection (YOLOv11s + DETR-X), POS log fraud detection, and on-premise local LLM log classification pipelines into corporate production.
 * **AI Researcher** @ Microsoft AI Innovators Program *(Aug. 2026 – Present)*  
   Conducting research on automated LLM agent red teaming and MITRE ATLAS / OWASP risk evaluation frameworks.
