@@ -79,6 +79,6 @@ Focused on auditing, securing, and deploying production-grade AI systems and age
 
 ## Contact & Profiles
 
-* **LinkedIn:** [linkedin.com/in/mustafa-caliskan-b0221b333](https://www.linkedin.com/in/mustafa-caliskan-b0221b333)
+* **LinkedIn:** [linkedin.com/in/mustafa-caliskan-b0221b333](https://www.linkedin.com/in/mustafa-caliskann/)
 * **Medium:** [medium.com/@caliskanmustafa](https://medium.com/@caliskanmustafa)
 * **Email:** [caliskanmustafaa.55@gmail.com](mailto:caliskanmustafaa.55@gmail.com)
